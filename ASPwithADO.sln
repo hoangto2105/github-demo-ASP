@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameWorkASPwithADO", "Fram
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameWorkASPwithADO_Photo", "FrameWorkASPwithADO_Photo\FrameWorkASPwithADO_Photo.csproj", "{9693CA35-AE34-4DC6-86D4-47DB649FB707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitHub", "TestGitHub\TestGitHub.csproj", "{35B25381-5252-4E80-9759-01C4826C3FF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9693CA35-AE34-4DC6-86D4-47DB649FB707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9693CA35-AE34-4DC6-86D4-47DB649FB707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9693CA35-AE34-4DC6-86D4-47DB649FB707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B25381-5252-4E80-9759-01C4826C3FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B25381-5252-4E80-9759-01C4826C3FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B25381-5252-4E80-9759-01C4826C3FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B25381-5252-4E80-9759-01C4826C3FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
